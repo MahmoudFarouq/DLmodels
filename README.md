@@ -1,2 +1,2 @@
 # DLmodels
-deep learning models implemented from skratch in tensorflow
+deep learning models implemented from skratch in tensorflow and/or keras
